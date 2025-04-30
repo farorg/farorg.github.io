@@ -25,8 +25,8 @@
 Right Hemisphere, Prefrontal Cortex, Temporal Lobe
 
 ### Does
-Understanding Color, Imagining, Creating creative ways,
-Problem Solving, Thinking in Abstract way
+Understanding Color, Imagining/Imagination, Creating creative ways,
+Problem Solving, Thinking in Abstract way, OOB(Out of Box) thinking.
 
 ---
 ## Feeling
@@ -35,7 +35,7 @@ Problem Solving, Thinking in Abstract way
 Amygdala, Prefrontal Cortex, Insula, Anterior Cingulate Cortex
 
 ### Does
-Regulate of Emotion, Interaction, Sense Memory, Sense of Body, Touch, Tinkling, Vibing
+Regulate of Emotion, Interaction, Sense Memory, Sense of Body, Touch, Tinkling, Vibing, Emotional Memory (Memorium)
 
 ---
 
@@ -45,7 +45,7 @@ Regulate of Emotion, Interaction, Sense Memory, Sense of Body, Touch, Tinkling, 
 Left Hemisphere, Frontal Lobe, Parietal Lobe, Temporal Lobe
 
 ### Does
-Analizing, Thinking, Problem Solving, Reasoning, Language, Condition, Knowing Patterns, Making Structure, Dividing Elements
+Analizing, Thinking, Problem Solving, Reasoning, Language, Condition, Knowing Patterns, Making Structure, Dividing Elements, Logical Memory
 
 ---
 ## Practical
