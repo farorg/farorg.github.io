@@ -25,10 +25,13 @@
   <meta property="twitter:image" content="https://ise.web.app/fa/31.png">
 
   <link rel="canonical" href="https://farorg.github.io/">
-  <link rel="shortcut icon" type="image/x-icon" href="https://ise.web.app/fa/31.png">
 
-  
+  <link rel='preload' as="script" href='https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js'>
+
 [/2]: # (<script type="application/ld+json">{"@context": "https://schema.org","@type": "ResearchOrganization","name": "Farorg","alternateName": "Far Research Lab","url": "https://farorg.github.io/","logo": "https://ise.web.app/fa/31.png","description": "Farorg is an advanced research lab focused on innovative technologies, scientific exploration, and digital system development.","sameAs": ["https://github.com/farorg",],"address": {"@type": "PostalAddress","addressLocality": "Global","addressRegion": "","postalCode": "","addressCountry": "International"},"founder": {"@type": "Person", "name": "Farorg Team" },"foundingDate": "2024","contactPoint": { "@type": "ContactPoint","contactType": "Research Inquiries", "email": "farorg", "url": "https://farorg.github.io/"}}</script>)
+[/3]: #(<script)
+[/30]: #(src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>)
+[/4]: #(<script>fav('28')</script>)
 
 </head>
 
