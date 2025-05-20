@@ -1,6 +1,9 @@
+
 <head>
   <meta charset="UTF-8">
-  <title>Farorg – Advanced Technology & Research Lab</title>
+
+[01]: #(<title>Farorg</title>)
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
 
@@ -25,43 +28,14 @@
   <link rel="shortcut icon" type="image/x-icon" href="https://ise.web.app/fa/31.png">
 
   
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ResearchOrganization",
-  "name": "Farorg",
-  "alternateName": "Far Research Lab",
-  "url": "https://farorg.github.io/",
-  "logo": "https://ise.web.app/fa/31.png",
-  "description": "Farorg is an advanced research lab focused on innovative technologies, scientific exploration, and digital system development.",
-  "sameAs": [
-    "https://github.com/farorg",
-  ],
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Global",
-    "addressRegion": "",
-    "postalCode": "",
-    "addressCountry": "International"
-  },
-  "founder": {
-    "@type": "Person",
-    "name": "Farorg Team"
-  },
-  "foundingDate": "2024",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "contactType": "Research Inquiries",
-    "email": "farorg", 
-    "url": "https://farorg.github.io/"
-  }
-}
-</script>
+[/2]: # (<script type="application/ld+json">{"@context": "https://schema.org","@type": "ResearchOrganization","name": "Farorg","alternateName": "Far Research Lab","url": "https://farorg.github.io/","logo": "https://ise.web.app/fa/31.png","description": "Farorg is an advanced research lab focused on innovative technologies, scientific exploration, and digital system development.","sameAs": ["https://github.com/farorg",],"address": {"@type": "PostalAddress","addressLocality": "Global","addressRegion": "","postalCode": "","addressCountry": "International"},"founder": {"@type": "Person", "name": "Farorg Team" },"foundingDate": "2024","contactPoint": { "@type": "ContactPoint","contactType": "Research Inquiries", "email": "farorg", "url": "https://farorg.github.io/"}}</script>)
 
 </head>
 
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+
+
 
 # Far
 
