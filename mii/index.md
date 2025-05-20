@@ -37,13 +37,13 @@
 
 
 ###### Data Distributed By FAR With IX system.
-# Modern Measurement for Intelligence
+# Modern Iteration of Intelligence
 
 |Data|Value|
 | - | - |
 |Type |Modernize|
 |Usage|Intelligence|
-|Append|Measurement|
+|Append|Iteration|
 |Class|Framework|
 
 This table presents the core structure of the Modern Measurement for Intelligence framework. It identifies five main cognitive areas: Creative, Feeling, Logical, Practical, and Musical. Each area is connected to specific brain regions and associated with distinct cognitive functions.
