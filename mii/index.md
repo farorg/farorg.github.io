@@ -32,9 +32,10 @@
 
 </head>
 
-<link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
-<link rel="stylesheet" href="https://actwu.github.io/md.css"/>
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
+[Back](../)
 
 ###### Data Distributed By FAR With IX system.
 # Modern Iteration of Intelligence
