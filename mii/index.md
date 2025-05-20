@@ -46,7 +46,7 @@
 |Append|Iteration|
 |Class|Framework|
 
-This table presents the core structure of the Modern Measurement for Intelligence framework. It identifies five main cognitive areas: Creative, Feeling, Logical, Practical, and Musical. Each area is connected to specific brain regions and associated with distinct cognitive functions.
+This table presents the core structure of the Modern Iteration of Intelligence framework. It identifies five main cognitive areas: Creative, Feeling, Logical, Practical, and Musical. Each area is connected to specific brain regions and associated with distinct cognitive functions.
 
 The purpose of the table is to show that intelligence is not limited to one function or location in the brain. Instead, each part works with memory in a unique way. Memory is treated as a built-in process in every area, supporting how we receive, store, process, and respond to information.
 
