@@ -41,13 +41,8 @@
 
 # Far
 
-# Resources
-
-## Introduction to Modern Measurement for Intelligence
-[Learn More](https://farorg.github.io/mmi)
-
-# Studies
----
+## Introduction to Modern Iteration of Intelligence
+[Learn More](https://farorg.github.io/mii)
 
 ## Beyond Mimicry & Binary Limitations of AI
 [Learn More](https://farorg.github.io/bm&bloai)
