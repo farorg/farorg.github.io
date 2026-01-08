@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
 # truths.
-
+```
 STATEMENT 
 • Context Matters.
 • Pro(Onto) Gramming (To formalize a nuance of peace of state) is Grammar Editing for computing system (computer)
