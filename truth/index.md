@@ -25,7 +25,38 @@
 - Context Matters.  
 - Pro(Onto) Graming (To formalize a nuance of peace of state) is Grammar Editing for computing system (computer)  
   *So we are writers in computer instructions, right*  
-- Coding / En(Into) Coding  
+- Coding / En(Into) Coding
+- The universe is physical.
+- Matter, energy, time, and space exist whether observed or not.
+- Everything that happens follows cause and effect.
+- Set model (math, code, language, ideology, AI) is reality — it only describes parts of it.
+- Descriptions are always incomplete.
+- Precision is limited by physics.
+- Certainty is limited by information.
+- Noise is unavoidable.
+- Change is constant when given Constant Value.
+
+About humans:
+- Humans perceive through limited senses.
+- The brain simplifies reality into patterns to survive.
+- Thoughts, emotions, and beliefs are biological processes.
+- Meaning is constructed, not embedded in the universe.
+- Truth is discovered, not assigned.
+
+About systems (technology, AI, society):
+- All systems are built on assumptions.
+- All systems decay if not maintained.
+- Complexity increases fragility.
+- Simplicity increases resilience.
+- Power concentrates when understanding is rare.
+- Ignoring foundations always causes failure, eventually.
+
+About truth itself:
+- Truth does not require permission.
+- Truth does not need belief.
+- Truth is not offended by questions.
+- Truth survives scrutiny.
+- What cannot be tested, observed, or falsified is not truth - it is narrative.
 
 ---
 
