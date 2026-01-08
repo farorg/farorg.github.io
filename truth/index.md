@@ -9,6 +9,8 @@
 [/]: #(<style>body{margin:auto;padding:0.4em!important;}*:not(last-child){margin-bottom:var(--mar);}*{border:unset;outline:unset;word-break:break-all;}body{margin:auto;background:var(--b);color:var(--f);font-family:var(--font);display:flex;flex-direction:column;padding:5px;box-sizing:border-box;width:100vw;max-width:540px;text-align:center;justify-content:center;place-content:center;align-content:center;min-height:100svh;}</style>)
 
 [/]: #(<script>app('farorg-truth');fav(3)</script>)
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
 # truths.
 
