@@ -284,3 +284,40 @@ About truth itself:
 - Abstractions should not forget physics  
 - Foundations matter  
 - Ignoring foundations breaks systems
+
+
+## Time
+
+The 24-hour clock runs from 00:00 → 23:59. In normal English we convert it to AM/PM, but you just want morning / midday / night.
+
+How you’re reading it:
+Example: 17:00 (24-hour format)
+   Drop the first “1” → just look at the last two digits for the hour in 12-hour-ish sense
+   17 → 7 (because 17 − 12 = 5, basically)
+   
+Decide which category it falls into: morning / midday / night
+05:00 – 11:59 → morning
+12:00 – 16:59 → midday
+17:00 – 04:59 → night
+   So 17:00 → 5:00 night 
+
+(○ Morning / Umaga / בוקר)
+Time range: 05:00 – 11:59
+Notes: Start of the day, before noon
+English equivalent: Morning
+Filipino: Umaga
+Hebrew: Boker
+
+(○ Midday / Tanghali / צהריים)
+Time: 12:00 (noon)
+Notes: Middle of the day, can include early afternoon
+English equivalent: Midday / Noon
+Filipino: Tanghali / Hapon (broad)
+Hebrew: Tzohorayim
+
+(○ Night / Gabi / לילה)
+Time range: 17:00 – 04:59
+Notes: After midday until early morning, dark hours
+English equivalent: Night / Evening
+Filipino: Gabi
+Hebrew: Lailah
